@@ -1,0 +1,65 @@
+
+.container-header{
+	background-color: black;
+	max-height: 100%;
+	width: 100%;
+
+}
+
+.footer{
+	background-color: black;
+	text-align: right;
+}
+
+.imagen{
+	width:100%;
+	filter: saturate(180%);
+	border: 2% solid black;
+    
+}
+
+.contenedor{
+	width:100%;
+	margin: 0 auto;
+}
+
+.imagen-marvel{
+	width: 100%;
+	height: 100px;
+}
+
+.imagenes-container{
+	width: 50%;
+	height: 250px;
+}
+
+a{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 15px;
+}
+
+.line{
+	size: 100px;
+	color:black;
+}
+
+div.row{
+	background-color:#D0D3D4; 
+	width: 100%;
+	padding: 20px;
+	height: 100%;
+}
+
+.marvel{
+	background-color:#EC7063;	
+}
+
+.comics:hover{
+	filter: saturate(180%);
+}
+
+img{
+	border-radius: 10px;
+	border:4px solid #000000;	
+
+}
